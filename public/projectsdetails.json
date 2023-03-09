@@ -1,0 +1,52 @@
+[
+    {
+      "projectsId":"6394e766b808b44d0a54c51a", 
+      "name": "Used Product Resale",
+      "about": "Arona is a responsive resale product website that is secured by JSON web token ( JWT ) where maintained the admin panel and used firebase for login authentication and MongoDB for the database.\r\n",
+      "pictures": [
+       "https://i.ibb.co/44RLWsV/screencapture-used-product-resale-d5c47-web-app-2022-12-11-17-01-57.png",
+       "https://i.ibb.co/Lxw3xyF/Screenshot-13.png",
+       "https://i.ibb.co/7j693BF/Screenshot-14.png",
+       "https://i.ibb.co/TYt2PFS/Screenshot-15.png",
+       "https://i.ibb.co/8BPCnzg/Screenshot-16.png",
+       "https://i.ibb.co/ZhSzHQN/Screenshot-17.png",
+       "https://i.ibb.co/ftDmQSg/Screenshot-18.png"
+      ]
+    },
+    {
+      "projectsId":"6394e766b808b44d0a54c51b", 
+      "name": "Service review website",
+      "about": "FLY_PLANE is a completely responsive website with react-router-dom and firebase for login. This project used tailwindCSS and the DaisyUI plugin. On this website, you can give review your selected services.\r\n",
+      "pictures": [
+        "https://i.ibb.co/LnjRHb8/screencapture-fly-plane-39afd-web-app-2022-12-11-16-48-57.png",
+       "https://i.ibb.co/zV7ZJvgscreencapture-fly-plane-39afd-web-app-blog-2022-12-11-16-49-50.png",
+       "https://i.ibb.co/ZXv5SPR/screencapture-fly-plane-39afd-web-app-services-2022-12-11-16-49-31.png",
+       "https://i.ibb.co/LnjRHb8/screencapture-fly-plane-39afd-web-app-2022-12-11-16-48-57.png"
+      ]
+    },
+    {
+        "projectsId":"6394e766b808b44d0a54c51c", 
+        "name": "Education Buddies",
+        "about": "Education Buddies, a completely responsive website with react-router-dom and uses firebase for authentication. On this website, use different icons from hero-icon. Simply describe CORS, Private Route, and Node JS and use firebase for deploying live sites.\r\n",
+        "pictures": [
+         "https://i.ibb.co/BqLJpGb/Screenshot-3.png",
+         "https://i.ibb.co/zFVK9Qg/Screenshot-19.png",
+         "https://i.ibb.co/z2nkkcK/Screenshot-20.png",
+         "https://i.ibb.co/X4zyxzJ/Screenshot-21.png"
+  
+          
+        ]
+      },
+    {
+      "projectsId":"6394e766b808b44d0a54c51d", 
+      "name": "Daily Activities",
+      "about": "Daily Activities, a completely responsive website. On this website, use different icons from hero-icon. On this website, you can measure your daily activities that helps you to take decision\r\n",
+      "pictures": [
+          "https://i.ibb.co/dPfzcs6/screencapture-loquacious-ganache-7c8ce0-netlify-app-2022-12-11-16-58-35.png",
+          "https://i.ibb.co/pR4FqP7/Screenshot-4.png",
+        "https://i.ibb.co/MgDHDZP/Screenshot-22.png"
+      ]
+    }
+  ]
+
+  

@@ -1,0 +1,83 @@
+[{
+  "picture": "https://i.ibb.co/bsyHZg0/Screenshot-14.png",
+  "name": "Fitlessian ( Fitness Tracker Website )",
+  "about": "Fitlessian is a fitness tracker website where users can set activities on basis of weight goals and see their activities on a chart according to daily,weekly, monthly, and yearly basis. They can also set their food and water limits. Users can connect by sending requests and communicating with each other via a message system and also communicate with instructors via video call.",
+  "site": "https://fitlessian.web.app/",
+  "client-repo" : "https://github.com/farukphero/fitness-tracking-web-client",
+  "server-repo" : "https://github.com/farukphero/fitness-tracking-web-server",
+  "pictures": [
+    "https://i.ibb.co/jfKW9QY/Screenshot-15.png",
+   "https://i.ibb.co/QCQ79Cc/Screenshot-16.png",
+    "https://i.ibb.co/tBLFx0N/Screenshot-17.png",
+   "https://i.ibb.co/qgnsRdv/Screenshot-18.png",
+    "https://i.ibb.co/TPgbhG4/Screenshot-19.png",
+    "https://i.ibb.co/THHBypY/Screenshot-20.png"
+   ]
+   
+},
+    {
+        "picture": "https://i.ibb.co/44RLWsV/screencapture-used-product-resale-d5c47-web-app-2022-12-11-17-01-57.png",
+        "name": "Arona ( Resale Product Website )",
+        "about": "Arona is a resale product website where sellers can add products to a specific category, advertise products, and also delete products. Buyers can buy products and report to admin if they are not satisfied. Admin can verify seller by giving blue tick, make admin any user and also can delete if violate rules.",
+        "site" : "https://used-product-resale-d5c47.web.app/",
+        "client-repo": "https://github.com/farukphero/Assignment-12-used-products-resale-clients",
+        "server-repo" : "https://github.com/farukphero/Assignment-12-used-products-resale-server",
+        "pictures": [
+          "https://i.ibb.co/44RLWsV/screencapture-used-product-resale-d5c47-web-app-2022-12-11-17-01-57.png",
+          "https://i.ibb.co/Lxw3xyF/Screenshot-13.png",
+          "https://i.ibb.co/7j693BF/Screenshot-14.png",
+          "https://i.ibb.co/TYt2PFS/Screenshot-15.png",
+          "https://i.ibb.co/8BPCnzg/Screenshot-16.png",
+          "https://i.ibb.co/ZhSzHQN/Screenshot-17.png",
+          "https://i.ibb.co/ftDmQSg/Screenshot-18.png"
+         ]
+         
+      },
+    {
+       
+        "picture": "https://i.ibb.co/LnjRHb8/screencapture-fly-plane-39afd-web-app-2022-12-11-16-48-57.png",
+        "name": "FLY_PLANE ( Service Review Website }",
+        "about": "FLY_PLANE is a completely responsive website where users can see and take the services and also can add reviews. There is a capability for users to see specific products and the reviews left by other users on those products. If users logged in, they can easily post a new review. If they aren't logged in, they must complete the authentication process. They can add services and delete previous one",
+        "site":"https://fly-plane-39afd.web.app/",
+        "client-repo": "https://github.com/farukphero/Assignment-11-service-review-client",
+        "server-repo" :"https://github.com/farukphero/Assignment-11-service-review-server",
+        "pictures": [
+          "https://i.ibb.co/LnjRHb8/screencapture-fly-plane-39afd-web-app-2022-12-11-16-48-57.png",
+         "https://i.ibb.co/zV7ZJvgscreencapture-fly-plane-39afd-web-app-blog-2022-12-11-16-49-50.png",
+         "https://i.ibb.co/ZXv5SPR/screencapture-fly-plane-39afd-web-app-services-2022-12-11-16-49-31.png",
+         "https://i.ibb.co/LnjRHb8/screencapture-fly-plane-39afd-web-app-2022-12-11-16-48-57.png"
+        ]
+         
+      },
+    {
+       
+        "picture": "https://i.ibb.co/BqLJpGb/Screenshot-3.png",
+        "name": "Education Buddies",
+        "about": "Education Buddies, a completely responsive website with react-router-dom and uses firebase for authentication. On this website, use different icons from hero-icon. Simply describe CORS, Private Route, and Node JS and use firebase for deploying live sites.",
+        "site":"https://learning-platform-d8701.web.app/",
+        "client-repo": "https://github.com/farukphero/Assignment-10-learning-platform-client",
+        "server-repo" : "https://github.com/farukphero/-Assignment-10-learning-platform-server",
+        "pictures": [
+          "https://i.ibb.co/BqLJpGb/Screenshot-3.png",
+          "https://i.ibb.co/zFVK9Qg/Screenshot-19.png",
+          "https://i.ibb.co/z2nkkcK/Screenshot-20.png",
+          "https://i.ibb.co/X4zyxzJ/Screenshot-21.png"
+   
+           
+         ]
+         
+      },
+    {
+       
+        "picture": "https://i.ibb.co/dPfzcs6/screencapture-loquacious-ganache-7c8ce0-netlify-app-2022-12-11-16-58-35.png",
+        "name": "Daily Activities",
+        "about": "Daily Activities, a completely responsive website. On this website, use different icons from hero-icon. On this website, you can measure your daily activities that helps you to take decision",
+        "pictures": [
+          "https://i.ibb.co/dPfzcs6/screencapture-loquacious-ganache-7c8ce0-netlify-app-2022-12-11-16-58-35.png",
+          "https://i.ibb.co/pR4FqP7/Screenshot-4.png",
+        "https://i.ibb.co/MgDHDZP/Screenshot-22.png"
+      ]
+         
+      }
+     
+  ]
